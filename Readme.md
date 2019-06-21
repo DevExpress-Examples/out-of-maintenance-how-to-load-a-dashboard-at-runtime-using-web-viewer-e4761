@@ -5,6 +5,9 @@
 * [WebForm1.aspx.cs](./CS/Dashboard_DashboardLoading/WebForm1.aspx.cs) (VB: [WebForm1.aspx.vb](./VB/Dashboard_DashboardLoading/WebForm1.aspx.vb))
 <!-- default file list end -->
 # How to load a dashboard at runtime using Web Viewer
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e4761)**
+<!-- run online end -->
 
 
 <p><strong>Note:</strong> <em>Starting with v17.1, we recommend using the <a href="https://documentation.devexpress.com/Dashboard/CustomDocument16976.aspx">ASPxDashboard control</a> or a corresponding <a href="https://documentation.devexpress.com/Dashboard/CustomDocument16977.aspx">ASP.NET MVC extension</a> to display dashboards within web applications.<br></em><br>The following example demonstrates how to load a dashboard at runtime using the <a href="http://documentation.devexpress.com/#Dashboard/DevExpressDashboardWebASPxDashboardViewer_DashboardLoadingtopic"><u>ASPxDashboardViewer.DashboardLoading</u></a> event.</p>
