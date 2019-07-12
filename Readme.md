@@ -6,7 +6,7 @@
 <!-- default file list end -->
 # How to load a dashboard at runtime using Web Viewer
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e4761)**
+**[[Run Online]](https://codecentral.devexpress.com/e4761/)**
 <!-- run online end -->
 
 
